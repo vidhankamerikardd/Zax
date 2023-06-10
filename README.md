@@ -1,2 +1,17 @@
 # Zax
-From here you can install Zax-Assistant for windows, linux etc. It has 1 dist.rar file, it's logo and inside dist.rar file there is Zax.exe, add Zax.exe in the startup folder. All the steps are in (ReadMe File) or on my website zax.netlify.app
+Hello everybody, I am the developer of Zax-assistant, and here I will tell you how to install Zax.exe on your device from github.
+
+Steps:
+
+1. Download all the files (Specially the dist.rar file) from github
+2. Convert it in normal folder
+3. open it and scroll down 
+4. then you will zax.exe file
+5. then make a desktop shortcut for it (You can change logo if you want)
+6. then click Windows + R
+7. then type shell:startup
+8. then copy and paste zax.exe shortcut from Desktop and you are done
+
+Now whenever you will open your device thnen it will open all the commands are given on website: Zax.netlfiy.app
+
+Availible for Windows and Linux
